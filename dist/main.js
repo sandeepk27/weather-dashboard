@@ -11665,7 +11665,7 @@
         "use strict";
         __webpack_require__.r(__webpack_exports__);
         /* harmony default export */
-        __webpack_exports__["default"] = (__webpack_require__.p + "025fab35f0783766510c70c14bac33b6.jpg");
+        __webpack_exports__["default"] = (__webpack_require__.p + "dist/bg.jpg");
 
         /***/
     }),
